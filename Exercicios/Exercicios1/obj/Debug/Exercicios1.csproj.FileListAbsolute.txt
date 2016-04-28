@@ -1,0 +1,6 @@
+c:\users\aldo\documents\visual studio 2013\Projects\Exercicios\Exercicios1\bin\Exercicios1.dll.config
+c:\users\aldo\documents\visual studio 2013\Projects\Exercicios\Exercicios1\bin\Exercicios1.dll
+c:\users\aldo\documents\visual studio 2013\Projects\Exercicios\Exercicios1\bin\Exercicios1.pdb
+c:\users\aldo\documents\visual studio 2013\Projects\Exercicios\Exercicios1\obj\Debug\Exercicios1.csprojResolveAssemblyReference.cache
+c:\users\aldo\documents\visual studio 2013\Projects\Exercicios\Exercicios1\obj\Debug\Exercicios1.dll
+c:\users\aldo\documents\visual studio 2013\Projects\Exercicios\Exercicios1\obj\Debug\Exercicios1.pdb

@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainPage.master.cs" Inherits="Exercicios1.Pages.MainPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../Scripts/bootstrap.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Exerícios Programação</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li>
+                        <asp:HyperLink NavigateUrl="~/pages/CalculoMediaArray.aspx" Text="Calculo de Média" runat="server" />
+                    </li>
+                    <li><asp:HyperLink NavigateUrl="~/pages/CalculoMediaArray.aspx" Text="Cadastro" runat="server" /></li>
+                    <li><a href="#"></a></li>
+                </ul>
+            </div>
+        </nav>
+        <div>
+            <div class="container">
+                <div class="row" id="Content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div class="row" id="rodape">
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
