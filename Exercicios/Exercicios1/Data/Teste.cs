@@ -7,5 +7,11 @@ namespace Exercicios1.Data
 {
     public class Teste
     {
+        public string teste() 
+        {
+            string mx="metodo teste2";
+
+            return mx;
+        }
     }
 }
