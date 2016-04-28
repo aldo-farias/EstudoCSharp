@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Businnes\CalcularMedia.cs" />
+    <Compile Include="Data\Teste.cs" />
     <Compile Include="Data\User.cs" />
     <Compile Include="Pages\CadastroAlunos.aspx.cs">
       <DependentUpon>CadastroAlunos.aspx</DependentUpon>
